@@ -1,0 +1,7 @@
+D:\Users\Stefan\source\repos\practicum_1_opdracht_1\practicum_1_opgaven_2\bin\Debug\practicum_1_opgaven_2.exe.config
+D:\Users\Stefan\source\repos\practicum_1_opdracht_1\practicum_1_opgaven_2\bin\Debug\practicum_1_opgaven_2.exe
+D:\Users\Stefan\source\repos\practicum_1_opdracht_1\practicum_1_opgaven_2\bin\Debug\practicum_1_opgaven_2.pdb
+D:\Users\Stefan\source\repos\practicum_1_opdracht_1\practicum_1_opgaven_2\obj\Debug\practicum_1_opgaven_2.csproj.CoreCompileInputs.cache
+D:\Users\Stefan\source\repos\practicum_1_opdracht_1\practicum_1_opgaven_2\obj\Debug\practicum_1_opgaven_2.exe
+D:\Users\Stefan\source\repos\practicum_1_opdracht_1\practicum_1_opgaven_2\obj\Debug\practicum_1_opgaven_2.pdb
+D:\Users\Stefan\source\repos\practicum_1_opdracht_1\practicum_1_opgaven_2\obj\Debug\practicum_1_opgaven_2.csprojAssemblyReference.cache

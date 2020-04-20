@@ -1,0 +1,2 @@
+D:\Users\Stefan\source\repos\practicum_1_opdracht_1\TicTacToeEngine\obj\Debug\TicTacToeEngine.csprojAssemblyReference.cache
+D:\Users\Stefan\source\repos\practicum_1_opdracht_1\TicTacToeEngine\obj\Debug\TicTacToeEngine.csproj.CoreCompileInputs.cache
