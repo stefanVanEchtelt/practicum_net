@@ -42,7 +42,6 @@ namespace practicum2
             this.num3Text = new System.Windows.Forms.TextBox();
             this.num3TextLb = new System.Windows.Forms.Label();
             this.SuspendLayout();
-            Random random = new Random();
             // 
             // button1
             // 
@@ -69,7 +68,6 @@ namespace practicum2
             this.num1Text.Name = "num1Text";
             this.num1Text.Size = new System.Drawing.Size(27, 20);
             this.num1Text.TabIndex = 5;
-            this.num1Text.Text = random.Next(10).ToString();
             // 
             // methodOutput
             // 
@@ -111,7 +109,6 @@ namespace practicum2
             this.num2Text.Name = "num2Text";
             this.num2Text.Size = new System.Drawing.Size(27, 20);
             this.num2Text.TabIndex = 11;
-            this.num2Text.Text = random.Next(10).ToString();
             // 
             // label3
             // 
@@ -128,7 +125,6 @@ namespace practicum2
             this.num3Text.Name = "num3Text";
             this.num3Text.Size = new System.Drawing.Size(27, 20);
             this.num3Text.TabIndex = 13;
-            this.num3Text.Text = random.Next(10).ToString();
             // 
             // num3TextLb
             // 

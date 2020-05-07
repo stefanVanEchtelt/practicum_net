@@ -14,6 +14,10 @@ namespace practicum2
         public Form1()
         {
             InitializeComponent();
+            Random random = new Random();
+            this.num1Text.Text = random.Next(10).ToString();
+            this.num2Text.Text = random.Next(10).ToString();
+            this.num3Text.Text = random.Next(10).ToString();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -30,8 +34,6 @@ namespace practicum2
             lambdaOutput.Text = output;
             String[] lambda = output.Split(new string[] { "\n" }, StringSplitOptions.None);
 
-            // Console.WriteLine(lambda[0].Split(new string[] { " = " }, StringSplitOptions.None)[1]);
-
             int index = 0;
             bool isFalse = false;
             foreach (string s in lambda)
@@ -42,7 +44,7 @@ namespace practicum2
                     {
                         isFalse = true;
                     }
-                    index = index + 1;
+                    index += 1;
                 }
             }
 
